@@ -1,1 +1,21 @@
+img {
+  width: 100%;
+}
 
+figure {
+  max-width: 300px;
+}
+
+body {
+  background-color: powderblue;
+  color: midnightblue;
+
+  /* Add these */
+  font-family: Helvetica, Arial, sans-serif;
+  line-height: 1.5;     /* spacing between lines */
+  text-align: center;   /* left, center, right, justify */
+}
+
+h1 {
+  font-size: 3rem;      /* size of text */
+}
